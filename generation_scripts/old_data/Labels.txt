@@ -1,0 +1,31 @@
+2009c Atlas Grey
+
+org now
+
+67  300 Left Cerebellum
+210 302 Left Cerebrum.Frontal Lobe.Grey Matter
+6   304 Left Cerebrum.Parietal Lobe.Grey Matter
+8   306 Left Cerebrum.Occipital Lobe.Grey Matter
+218 308 Left Cerebrum.Temporal Lobe.Grey Matter
+
+76  301 Right Cerebellum
+211 303 Right Cerebrum.Frontal Lobe.Grey Matter
+2   305 Right Cerebrum.Parietal Lobe.Grey Matter
+4   307 Right Cerebrum.Occipital Lobe.Grey Matter
+219 309 Right Cerebrum.Temporal Lobe.Grey Matter
+
+
+2009c Atlas White
+
+67  300 Left Cerebellum
+30  312 Left Cerebrum.Frontal Lobe.White Matter
+57  314 Left Cerebrum.Parietal Lobe.White Matter
+73  316 Left Cerebrum.Occipital Lobe.White Matter
+83  318 Left Cerebrum.Temporal Lobe.White Matter
+
+76  301 Right Cerebellum
+17  313 Right Cerebrum.Frontal Lobe.White Matter
+105 315 Right Cerebrum.Parietal Lobe.White Matter
+45  317 Right Cerebrum.Occipital Lobe.White Matter
+59  319 Right Cerebrum.Temporal Lobe.White Matter
+

@@ -1,0 +1,3 @@
+[submodule "deps/pkg-slicer-cli"]
+	path = deps/pkg-slicer-cli
+	url = ../pkg-slicer-cli.git
